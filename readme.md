@@ -98,8 +98,8 @@ These will be "Science Fair-style" on Friday.
 - Wednesday
   - 2:00 - 3:00pm: You and your squad will scrum with your instructor, followed by optional code reviewing with your squadmates. Your squad instructor will take attendance.
 - Friday
-  - 12:30: Lunch is provided! It's fundatory: attendance will be taken.
-  - 1:30: You and your squadmates will peer-review each others' code to iron out final kinks.
+  - 12:00: Attendance will be taken. You and another student will pair to peer-review each others' code.
+  - 12:30 Lunch is provided!
   - 3:00: Squads Ada, Bash, and C will present at the Science Fair.
   - 3:30: Break
   - 3:45: Squads Dart, Elixir, and Fortran will present at the Science Fair.
