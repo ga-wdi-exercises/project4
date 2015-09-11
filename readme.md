@@ -80,3 +80,25 @@ Instructors will not be providing evaluation for this project. We want you to us
 as you apply for jobs. 
 
 That being said, instructors will be available for 1-1 appointments and support.
+
+---
+
+### Presentations
+
+These will be "Science Fair-style" on Friday.
+
+---
+
+### Dates and times
+
+- Monday
+  - 2:00 - 2:30pm: You and your squad will scrum with your instructor.
+- Wednesday
+  - 2:00 - 2:30pm: You and your squad will scrum with your instructor.
+- Friday
+  - 3:00: Squads Ada, Bash, and C will present at the Science Fair.
+  - 3:30: Break
+  - 3:45: Squads Dart, Elixir, and Fortran will present at the Science Fair.
+  - 4:15: Break
+  - 4:30: The class will debrief as a whole.
+  - 5:30: The start of the rest of your lives! (And Happy Hour!)
