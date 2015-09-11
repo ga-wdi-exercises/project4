@@ -79,7 +79,7 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 Instructors will not be providing evaluation for this project. We want you to use this final project as your magnum opus
 as you apply for jobs. 
 
-If you would like instructor feedback after your project has been completed, please **submit your Github repository as a Git issue to the [`pbj-project4-gallery`](https://github.com/ga-dc/pbj-project4-gallery) repository.
+If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`pbj-project4-gallery`](https://github.com/ga-dc/pbj-project4-gallery) repository**.
 
 As always, instructors will be available for 1-1 appointments and support. Please **submit technical issues to the `pbj-project4` repository as Git issues**. To schedule an appointment, please Slack the relevant instructor.
 
