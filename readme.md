@@ -79,7 +79,7 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 Instructors will not be providing evaluation for this project. We want you to use this final project as your magnum opus
 as you apply for jobs. 
 
-If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`pbj-project4-gallery`](https://github.com/ga-dc/pbj-project4-gallery) repository**.
+If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`pbj-project4-gallery`](https://github.com/ga-dc/pbj-project4-gallery) repository**. If you do so **by 6:00pm on Friday**, we will do our best to have feedback returned to you by Monday morning. If you do so afterward, please just Slack an instructor from which you'd like feedback to let them know.
 
 As always, instructors will be available for 1-1 appointments and support. Please **submit technical issues to the `pbj-project4` repository as Git issues**. To schedule an appointment, please Slack the relevant instructor.
 
@@ -94,10 +94,11 @@ These will be "Science Fair-style" on Friday.
 ### Dates and times
 
 - Monday
-  - 2:00 - 2:30pm: You and your squad will scrum with your instructor.
+  - 2:00 - 2:30pm: Attendance will be taken. You and your squad will scrum with your instructor.
 - Wednesday
-  - 2:00 - 2:30pm: You and your squad will scrum with your instructor.
+  - 2:00 - 2:30pm: Attendance will be taken. You and your squad will scrum with your instructor.
 - Friday
+  - 2:45: Attendance will be taken.
   - 3:00: Squads Ada, Bash, and C will present at the Science Fair.
   - 3:30: Break
   - 3:45: Squads Dart, Elixir, and Fortran will present at the Science Fair.
