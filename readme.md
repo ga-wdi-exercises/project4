@@ -76,7 +76,7 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 
 ### Project Feedback + Evaluation
 
-Instructors will not be providing evaluation for this project. We want you to use this final project as your magnum opus
+Instructors will not be grading this project. We want you to use this final project as your magnum opus
 as you apply for jobs. 
 
 If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`pbj-project4-gallery`](https://github.com/ga-dc/pbj-project4-gallery) repository**. If you do so **by 6:00pm on Friday**, we will do our best to have feedback returned to you by Monday morning. If you do so afterward, please just Slack an instructor from whom you'd like feedback to let them know.
