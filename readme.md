@@ -94,7 +94,7 @@ These will be "Science Fair-style" on Friday.
 |---|---|
 |9:00| Project 4 Kickoff. Pick whichever classroom you want! |
 |9:00 - 11:00| Project Brainstorm - user stories, some initial sketches/wireframing, possible ERD's|
-|11:00| Squad Scrum - Bounce stories off squad and instructor
+|11:30| Squad Scrum - Bounce stories off squad and instructor
 |11:00 - 4:00| Work on projects |
 |4:00| Feed BACK(robin's activity)|
 |5:00| Squad Scrum - Discuss project 1 |
