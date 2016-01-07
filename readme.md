@@ -120,4 +120,4 @@ Schedule one 30 minute appt with instructor between Tuesday-Thursday. Attendance
 |4:00 - 4:30| Final Squad Scrum |
 |4:30 - 5:00| End Course Feedback |
 |5:00| The class will debrief as a whole.|
-|5:30 - 7:00| Happy Hour! |
+|5:30 - TBD | Celebrations! |
