@@ -78,9 +78,11 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 
 Instructors will not be grading this project. We want you to use this final project as your magnum opus as you apply for jobs.
 
-If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`wdi-project4-gallery`](https://github.com/ga-dc/wdi-project4-gallery) repository**. If you do so **by 6:00pm on Friday**, we will do our best to have feedback returned to you some time the following week. If you do so afterward, please just Slack an instructor from whom you'd like feedback to let them know.
+If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`wdi-project4-gallery`](https://github.com/ga-dc/wdi-project4-gallery) repository**. If you do so **by 6:00pm on Friday**, we will do our best to have feedback returned to by **COB Friday of the following week (1/22)**. If you do so afterward, please just Slack an instructor from whom you'd like feedback to let them know.
 
-As always, instructors will be available for 1-1 appointments and support. Please **submit technical issues to the `project4` repository as Git issues**. To schedule an appointment, please Slack the relevant instructor.
+### Support + Issues
+
+Instructors will meet with students during scheduled one-on-ones, which will be with student's squad leader. Please **submit technical issues to the `project4` repository as Git issues**. If you're feeling stuck, please review the [How to Ask For Help Doc](asking_for_help.md)
 
 ---
 
@@ -89,8 +91,8 @@ These will be "Science Fair-style" on Friday.
 
 ---
 ### Schedule - Dates and times
-#### Fri - 8 Jan
-|time| what's happening|
+#### Friday (8 Jan)
+|Time| What's Happening|
 |---|---|
 |9:00| Project 4 Kickoff. Pick whichever classroom you want! |
 |9:00 - 11:00| Project Brainstorm - user stories, some initial sketches/wireframing, possible ERD's|
@@ -99,22 +101,23 @@ These will be "Science Fair-style" on Friday.
 |4:00| Feed BACK(robin's activity)|
 |5:00| Squad Scrum - Discuss project 1 |
 
-#### Mon - 11 Jan
-Schedule 15 minute appt with instructor. Attendance will be taken at appt by squad leader.
+#### Monday (11 Jan)
+ 15 minute appt with instructor to be scheduled before Monday. Attendance will be taken at appt by squad leader.
 
-#### Tue(12 Jan) - Thur(14 Jan)
-Schedule 30 minute appt with instructor. Attendance will be taken at appt by squad leader.
+#### Tuesday (12 Jan) - Thursday (14 Jan)
+Schedule one 30 minute appt with instructor between Tuesday-Thursday. Attendance will be taken at appt by squad leader.
 
-#### Friday
-|time| what's happening|
+#### Friday (15 Jan)
+|Time| What's Happening|
 |---|---|
-|9:00| breakfast? |
-|12:00| Pencil's Down! Lunch is provided! |
+|9:00| Breakfast |
+|12:00| Pencils Down! Lunch is provided! |
 |1:00 - 1:45| NaN, AwesomeAnimalHomies, FullSquid`<div>`elopers presents |
 |1:45 - 2:00| Break! |
-|2:00 - 2:45| Undefined, DrJammer, Hackasaurs presents |
+|2:00 - 2:45| Four Leaf Coders, DrJammer, Hackasaurs presents |
 |2:45 - 3:00| Break! |
 |3:00 - 3:45| `<br>`ingBad, LearningToShred, Skwahd presents |
 |4:00 - 4:30| Final Squad Scrum |
 |4:30 - 5:00| End Course Feedback |
 |5:00| The class will debrief as a whole.|
+|5:30 - 7:00| Happy Hour! |
