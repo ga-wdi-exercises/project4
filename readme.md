@@ -78,11 +78,11 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 
 Instructors will not be grading this project. We want you to use this final project as your magnum opus as you apply for jobs.
 
-If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`wdi-project4-gallery`](https://github.com/ga-dc/wdi-project4-gallery) repository**. If you do so **by 6:00pm on Friday**, we will do our best to have feedback returned to by **COB Friday of the following week (1/22)**. If you do so afterward, please just Slack an instructor from whom you'd like feedback to let them know.
+If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [`wdi-project4-gallery`](https://github.com/ga-dc/wdi-project4-gallery) repository**. If you do so **by 6:00pm on Friday**, we will do our best to have feedback returned to by **COB Friday of the following week (1/22)**. If you do submit your project after the deadline, please just note that you may receive your feedback after 1/22 and will be up to instructor discretion.
 
 ### Support + Issues
 
-Instructors will meet with students during scheduled one-on-ones, which will be with student's squad leader. Please **submit technical issues to the `project4` repository as Git issues**. If you're feeling stuck, please review the [How to Ask For Help Doc](asking_for_help.md)
+Instructors will meet with students during scheduled one-on-ones, which will be with the student's squad leader. Please **submit technical issues to the `project4` repository as Git issues**. If you're feeling stuck, please review the [How to Ask For Help Doc](asking_for_help.md)
 
 ---
 
@@ -98,8 +98,8 @@ These will be "Science Fair-style" on Friday.
 |9:00 - 11:00| Project Brainstorm - user stories, some initial sketches/wireframing, possible ERD's|
 |11:30| Squad Scrum - Bounce stories off squad and instructor
 |11:00 - 4:00| Work on projects |
-|4:00| Feed BACK(robin's activity)|
-|5:00| Squad Scrum - Discuss project 1 |
+|4:00| Feed BACK |
+|5:00| Squad Scrum - Discuss project 4, schedule one-on-ones |
 
 #### Monday (11 Jan)
  15 minute appt with instructor to be scheduled before Monday. Attendance will be taken at appt by squad leader.
