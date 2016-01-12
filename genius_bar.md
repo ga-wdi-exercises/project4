@@ -1,11 +1,11 @@
 ## Genius Bar
 
-For certain hours on Tuesday, Wednesday and Thursday, instructors will be running a Genius Bar in Classroom 1. This a chance for you to get some one-on-one assistance with project issues.
+On Tuesday, Wednesday and Thursday, the instructors will be running a Genius Bar in Classroom 1. This a chance for you to get some one-on-one assistance with project issues.
 
 Before using the Genius Bar, be aware of these stipulations...
 
-* In order to use the Genius Bar, you must have submitted an issue to the `project4` repo according to these guidelines.
-* Genius Bar visits are limited to 10 minutes, although an instructor may choose to extend that at his or her own discretion.
+* In order to use the Genius Bar, you must have submitted an issue to the `project4` repo according to [these guidelines](https://github.com/ga-dc/project4/blob/master/asking_for_help.md).
+* Genius Bar visits are limited to 10 minutes, although an instructor may choose to extend that time period at his or her own discretion.
 
 ## Schedule
 
