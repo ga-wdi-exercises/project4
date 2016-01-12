@@ -11,8 +11,8 @@ Before using the Genius Bar, be aware of these stipulations...
 
 |                   |   Tuesday    |    Wednesday   |    Thursday    |
 |-------------------|--------------|----------------|----------------|
-| 11:00am - 12:00pm |              | John / Andy    | Adrian / Jesse |
+| 11:00am - 12:00pm |              | John / Andy    |                |
 |  1:00pm - 2:00pm  |              | Jesse / Adrian | Matt / Robin   |
 |  2:00pm - 3:00pm  |              | Robin / Erica  | Erica / Nick   |
 |  3:00pm - 4:00pm  | Nick / Erica | Adam / Matt    | John / Andy    |
-|  4:00pm - 5:00pm  | Robin / John |                |                |
+|  4:00pm - 5:00pm  | Robin / John |                | Adrian / Jesse |
