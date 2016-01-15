@@ -117,7 +117,6 @@ Schedule one 30 minute appt with instructor between Tuesday-Thursday. Attendance
 |2:00 - 2:45| Four Leaf Coders, DrJammer, Hackasaurs presents |
 |2:45 - 3:00| Break! |
 |3:00 - 3:45| `<br>`ingBad, LearningToShred, Skwahd presents |
-|4:00 - 4:30| Final Squad Scrum |
-|4:30 - 5:00| End Course Feedback |
-|5:00| The class will debrief as a whole.|
-|5:30 - TBD | Celebrations! |
+|4:00 - 4:30| End-of-Course Feedback (CR4-6) |
+|4:30 - 5:15| WDI Wrap-up (CR5) |
+|6:00 - TBD | Celebrations! |
