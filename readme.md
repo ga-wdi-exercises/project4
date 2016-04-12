@@ -78,7 +78,7 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 
 Instructors will not be grading this project. We want you to use this final project as your magnum opus as you apply for jobs.
 
-If you would like instructor feedback after your project has been completed, please **submit a link to your Github repository as a Git issue to the [wdi8-project4-gallery](https://github.com/ga-dc/wdi8-project4-gallery) repository**. If you do so we will do our best to have feedback returned to by **COB Friday of the following week**. 
+We do require that you submit your project to the [wdi8-project4-gallery](https://github.com/ga-dc/wdi8-project4-gallery) repository. If you want feedback on your project, just ask an instructor after you've submitted it!
 
 ### Support + Issues
 
