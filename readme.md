@@ -87,5 +87,36 @@ Instructors will meet with students during scheduled one-on-ones, which will be 
 ---
 
 ### Presentations
-These will be "Science Fair-style" on Friday.
+
+#### 2:00 - 2:30
+
+- Adrian
+- Becky
+
+#### 2:40 - 3:10
+
+- Jesse
+- Joe
+- Matt
+
+#### 3:20 - 3:50
+
+- Nick
+- Robin
+
+#### 4:00 - 4:30
+
+Squad Scrum
+
+#### 4:30 - 4:40
+
+Life after WDI (Outcomes)
+
+#### 4:40 - 5:00
+
+Life after WDI
+
+#### 5:00 - 5:15
+
+Surveys n Surprises
 
