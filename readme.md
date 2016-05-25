@@ -78,35 +78,23 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 
 Instructors will not be grading this project. We want you to use this final project as your magnum opus as you apply for jobs.
 
-We do require that you submit your project to the [wdi8-project4-gallery](https://github.com/ga-dc/wdi8-project4-gallery) repository. If you want feedback on your project, just ask an instructor after you've submitted it!
+We do require that you submit your project to the [wdi9-project4-gallery](https://github.com/ga-dc/wdi9-project4-gallery) repository. If you want feedback on your project, just ask an instructor after you've submitted it!
 
 ### Support + Issues
 
-Instructors will meet with students during scheduled one-on-ones, which will be with the student's squad leader. Please **submit technical issues to the `project4` repository as Git issues**. 
+Instructors will meet with students during scheduled one-on-ones. Please **submit technical issues to the `project4` repository as Git issues**.
 
 ---
 
 ### Presentations
 
-#### 2:00 - 2:30
+#### 2:00 - 3:50
 
-- Adrian
-- Becky
-
-#### 2:40 - 3:10
-
-- Jesse
-- Joe
-- Matt
-
-#### 3:20 - 3:50
-
-- Nick
-- Robin
+Presentation Schedule updates to follow!
 
 #### 4:00 - 4:30
 
-Squad Scrum
+Scrum
 
 #### 4:30 - 4:40
 
@@ -119,4 +107,3 @@ Life after WDI
 #### 5:00 - 5:15
 
 Surveys n Surprises
-
