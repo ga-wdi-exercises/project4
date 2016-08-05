@@ -10,7 +10,7 @@ Make sure you review your project proposal with your instructor so you can make 
 
 ---
 
-### Technical Requirements
+### Technical Suggestions
 
 Your app must:
 
@@ -20,17 +20,16 @@ Your app must:
 
 ---
 
-### Necessary Deliverables
+### Pre-employment checklist
 
-* A **link to your hosted working app** in the URL section of your Github repo
-* A **git repository hosted on Github**, with a link to your hosted project, and frequent commits dating back to the very beginning of the project
-* **A ``readme.md`` file** with:
-    * An embedded screenshot of the app
-    * Explanations of the **technologies** used
-    * **Installation instructions** for any dependencies
-    * Link to your **user stories** – who are your users, what do they want, and why?
-    * Link to your **wireframes** – sketches of major views / interfaces in your application
-    * Descriptions of any **unsolved problems** or **major hurdles** you had to overcome
+- [] Add the deployed URL to repo settings
+- [] Add a readme with:
+  - [] An embedded screenshot of the app
+  - [] Explanations of the **technologies** used
+  - [] **Installation instructions** for any dependencies
+  - [] Link to your **user stories** – who are your users, what do they want, and why?
+  - [] Link to your **wireframes** – sketches of major views / interfaces in your application
+  - [] Descriptions of any **unsolved problems** or **major hurdles** you had to overcome
 
 ---
 
