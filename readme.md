@@ -84,21 +84,23 @@ Instructors will meet with students during scheduled one-on-ones. Please **submi
 
 ### Presentations
 
-#### 2:00 - 3:50
+#### 1:30 - 3:00
 
-Presentation Schedule updates to follow!
+1:30 - 1:50 - Adrian's Squad
+2:00 - 2:20 - Jesse's Squad
+2:30 - 2:50 - Nick's Squad
 
-#### 4:00 - 4:30
+#### 3:15 - 3:30
 
-Scrum
+Feedback-back
 
-#### 4:30 - 4:40
+#### 3:45 - 4:15
 
-Life after WDI (Outcomes)
+Squad Scrum
 
-#### 4:40 - 5:00
+#### 4:30 - 5:00
 
-Life after WDI
+Life After WDI
 
 #### 5:00 - 5:15
 
