@@ -86,9 +86,9 @@ Instructors will meet with students during scheduled one-on-ones. Please **submi
 
 #### 1:30 - 3:00
 
-1:30 - 1:50 - Adrian's Squad
-2:00 - 2:20 - Jesse's Squad
-2:30 - 2:50 - Nick's Squad
+* 1:30 - 1:50 - Adrian's Squad
+* 2:00 - 2:20 - Jesse's Squad
+* 2:30 - 2:50 - Nick's Squad
 
 #### 3:15 - 3:30
 
