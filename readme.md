@@ -22,14 +22,14 @@ Your app must:
 
 ### Pre-employment checklist
 
-- [] Add the deployed URL to repo settings
-- [] Add a readme with:
-  - [] An embedded screenshot of the app
-  - [] Explanations of the **technologies** used
-  - [] **Installation instructions** for any dependencies
-  - [] Link to your **user stories** – who are your users, what do they want, and why?
-  - [] Link to your **wireframes** – sketches of major views / interfaces in your application
-  - [] Descriptions of any **unsolved problems** or **major hurdles** you had to overcome
+- [ ] Add the deployed URL to repo settings
+- [ ] Add a readme with:
+  - [ ] An embedded screenshot of the app
+  - [ ] Explanations of the **technologies** used
+  - [ ] **Installation instructions** for any dependencies
+  - [ ] Link to your **user stories** – who are your users, what do they want, and why?
+  - [ ] Link to your **wireframes** – sketches of major views / interfaces in your application
+  - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had to overcome
 
 ---
 
@@ -86,9 +86,7 @@ Instructors will meet with students during scheduled one-on-ones. Please **submi
 
 #### 1:30 - 2:50
 
-* 1:30 - 1:50 - Adrian's Squad
-* 2:00 - 2:20 - Jesse's Squad
-* 2:30 - 2:50 - Nick's Squad
+Schedule TBD
 
 #### 3:00 - 3:15
 
