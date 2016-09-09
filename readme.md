@@ -86,11 +86,22 @@ Instructors will meet with students during scheduled one-on-ones. Please **submi
 
 #### 1:30 - 2:50
 
-Schedule TBD
+3 Groups Science Fair
+
+1:30 - 1:50 James' Squad
+1:50 - 2:00 Break
+2:00 - 2:20 Andy's Squad
+2:20 - 2:30 Break
+2:30 - 2:50 Nayana's Squad
+2:50 - 3:00 Break
 
 #### 3:00 - 3:15
 
 Feedback-back
+
+#### 3:15 - 3:30
+
+Envelopes!
 
 #### 3:30 - 4:00
 
