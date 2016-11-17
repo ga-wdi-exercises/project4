@@ -72,49 +72,14 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 
 ---
 
-### Project Feedback + Evaluation
-
-Instructors will not be grading this project. We want you to use this final project as your magnum opus as you apply for jobs.
-
 ### Support + Issues
 
-Instructors will meet with students during scheduled one-on-ones. Please **submit technical issues to the `project4` repository as Git issues**.
-
----
+Support will be provided exclusively through issues submitted to this repo. Please reference [this readme](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks) for suggestions on how to formulate an issue.
 
 ### Presentations
 
-#### 1:30 - 2:50
+Presentations will be done in a science fair format on Friday, December 2nd. Stay tuned for a schedule.
 
-3 Groups Science Fair
+### Project Feedback + Evaluation
 
-- 1:30 - 1:50 James' Squad
-- 1:50 - 2:00 Break
-- 2:00 - 2:20 Andy's Squad
-- 2:20 - 2:30 Break
-- 2:30 - 2:50 Nayana's Squad
-- 2:50 - 3:00 Break
-
-#### 3:00 - 3:15
-
-Feedback-back
-
-#### 3:15 - 3:30
-
-Envelopes!
-
-#### 3:30 - 4:00
-
-Squad Scrum
-
-#### 4:00 - 4:30
-
-Life After WDI
-
-#### 4:30 - 4:45
-
-Survey
-
-#### 4:45 - 5:00
-
-Surprises
+Instructors will not be grading this project. We want you to use this final project as your magnum opus as you apply for jobs.
