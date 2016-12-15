@@ -74,7 +74,7 @@ Here is the GA gallery of exceptionally awesome WDI projects from all over the w
 
 ### Support + Issues
 
-Support will be provided exclusively through issues submitted to this repo. Please reference [this readme](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks) for suggestions on how to formulate an issue.
+Support will be provided exclusively through issues submitted to this repo. Please reference [this readme](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks) or [this lesson](https://github.com/ga-wdi-lessons/effective_questions) for suggestions on how to formulate an issue.
 
 ### Presentations
 
