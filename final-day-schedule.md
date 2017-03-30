@@ -1,4 +1,4 @@
-# Last Day of Class Schedule
+<!-- # Last Day of Class Schedule
 
 
 | Time      | Event                |
@@ -18,22 +18,6 @@
 | 4:50-5:00 | Pop Bottles             |
 
 # Presentation Group 1
-- Thinh
-- Drew
-- Kevin
-- Jon Reiser
-- Donovan
-- Sam
-- Ba
-- Adrienne
-- Jon Grunewald
 
 # Presentation Group 2
-- EJ
-- Diana
-- Angel
-- Rob Z
-- Brad
-- Rob K
-- Rob R
-- Juliet
+ -->
