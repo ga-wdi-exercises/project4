@@ -79,7 +79,7 @@ Support will be provided exclusively through issues submitted to this repo. Plea
 
 ### Presentations
 
-Presentations will be done in a science fair format on Friday, June 9th. Stay tuned for a schedule.
+Presentations will be done in a science fair format on Friday, September 15th. Stay tuned for a schedule.
 
 ### Project Feedback + Evaluation
 
