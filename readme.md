@@ -6,7 +6,7 @@
 
 **You get to call the shots and invent your own idea**, choosing tools that are appropriate for what you want to build. Pull from everything you've learned so far, and **tackle something that'll push you a little outside of your comfort zone.**
 
-Make sure you review your project proposal with your squad leader so you can make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that'll be impressive visually**. Sometimes people do judge a book by its cover – or an app by its design. Submit your idea to your squad leader for approval along with any initial planning documents via Slack by 10am Friday.
+Make sure you review your project proposal with your squad leader so you can make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that'll be impressive visually**. Sometimes people do judge a book by its cover – or an app by its design. Submit your idea to your squad leader for approval along with any initial planning documents via Slack by 10am Monday.
 
 ---
 
@@ -17,6 +17,7 @@ Your app must:
 * **Be a complete product**, which most likely means multiple relationships and CRUD functionality for at least a couple models
 * **Implement thoughtful user stories** that are significant enough to help you know which features to build and which to scrap
 * **Be deployed online** so it's publicly accessible
+* **Contain a README and a planning directory** that describe your process, your product, and your plans.
 
 ---
 
